@@ -9,28 +9,30 @@ export default function Main() {
     });
 
     useEffect(() => {
-        const interval = setInterval(() => {
-            fetch("https://newsapi.org/v2/top-headlines?country=us&apiKey="+process.env.REACT_APP_NEWS_API_KEY)
-            .then(response => response.json())
-            .then(data => {
-                console.log(data);
-                setNews({ articles: data.articles });
-            })
-            .catch(err => {
-                setErrors(true);
-            });
-          }, 5000);
-          return () => clearInterval(interval);
-        
+        const data = () => {
+            fetch("https://newsapi.org/v2/top-headlines?country=us&apiKey=" + process.env.REACT_APP_NEWS_API_KEY)
+                .then(response => response.json())
+                .then(data => {
+                    console.log(data);
+                    setNews({ articles: data.articles });
+                })
+                .catch(err => {
+                    setErrors(true);
+                });
+        }
+        data();
+        const interval = setInterval(data, 5000);
+        return () => clearInterval(interval);
+
     }, []);
-    console.log("Conection interrupted: "+hasError)
+    console.log("Conection interrupted: " + hasError)
     return (
 
         <div>
             <div className="row">
                 <div className="leftcolumn">
                     {
-                        blogs.articles.slice(0,10).map((i,k)=> <Blog blog={i} key={k}/>)
+                        blogs.articles.slice(0, 10).map((i, k) => <Blog blog={i} key={k} />)
                     }
                 </div>
                 <div className="rightcolumn">

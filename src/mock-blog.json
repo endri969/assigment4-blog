@@ -2,19 +2,6 @@
     "articles": [
         {
             "source": {
-                "id": null,
-                "name": "Youtube.com"
-            },
-            "author": null,
-            "title": "Taylor Swift Wins Favorite Album - Pop/Rock at the 2019 AMAs - The American Music Awards - ABC",
-            "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-            "url": "https://www.youtube.com/watch?v=Sm0-TP6glQI",
-            "urlToImage": null,
-            "publishedAt": "2019-11-25T01:50:29Z",
-            "content": "[[getSimpleString(data.title)]]\r\n[[getSimpleString(data.description)]]\r\n[[getSimpleString(data.videoCountText)]]"
-        },
-        {
-            "source": {
                 "id": "the-new-york-times",
                 "name": "The New York Times"
             },
