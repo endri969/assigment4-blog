@@ -1,5 +1,4 @@
 import React from 'react'
-import { Link } from 'react-router-dom'
 export default function FullBlog(props) {
     const image = props.location.blog.urlToImage != null ? <img src={props.location.blog.urlToImage} alt={props.location.blog.title} /> : "";
     return (

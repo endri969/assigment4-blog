@@ -1,0 +1,264 @@
+{
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Youtube.com"
+            },
+            "author": null,
+            "title": "Taylor Swift Wins Favorite Album - Pop/Rock at the 2019 AMAs - The American Music Awards - ABC",
+            "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+            "url": "https://www.youtube.com/watch?v=Sm0-TP6glQI",
+            "urlToImage": null,
+            "publishedAt": "2019-11-25T01:50:29Z",
+            "content": "[[getSimpleString(data.title)]]\r\n[[getSimpleString(data.description)]]\r\n[[getSimpleString(data.videoCountText)]]"
+        },
+        {
+            "source": {
+                "id": "the-new-york-times",
+                "name": "The New York Times"
+            },
+            "author": null,
+            "title": "Devin Nunes Denounces Reports He Played a Role in Ukraine - The New York Times",
+            "description": "The top Republican on the House Intelligence Committee called the reports that he met with a former Ukrainian prosecutor part of a criminal campaign against him by a “totally corrupt” news media.",
+            "url": "https://www.nytimes.com/2019/11/24/us/politics/devin-nunes-ukraine.html",
+            "urlToImage": "https://static01.nyt.com/images/2019/11/24/opinion/24dc-nunes2/merlin_164759343_30414839-50a0-4557-b4cd-f4555dcab475-facebookJumbo.jpg",
+            "publishedAt": "2019-11-25T01:20:00Z",
+            "content": "If he was on a taxpayer-funded codel and I say if seeking dirt on a potential Democratic candidate for president, Joe Biden, that will be an ethics matter, Mr. Schiff said, using an abbreviation for congressional delegation. That is not before our committee.\r… [+1794 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes.com"
+            },
+            "author": "Gordon Kelly",
+            "title": "Black Friday 2019 iPhone Deals: Amazon, Best Buy, Walmart And More [Updated] - Forbes",
+            "description": "The best Apple iPhone Black Friday deals you can buy right now as well as upcoming doorbusters...",
+            "url": "https://www.forbes.com/sites/gordonkelly/2019/11/24/black-friday-2019-iphone-deals-amazon-best-buy-walmart-and-more-updated/",
+            "urlToImage": "https://thumbor.forbes.com/thumbor/600x315/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5dc0d32bca425400079c6fd7%2F960x0.jpg",
+            "publishedAt": "2019-11-25T01:10:01Z",
+            "content": "This story was written in collaboration with Forbes Finds. Forbes Finds covers products we think youll love. Featured products are independently selected and linked to for your convenience. If you buy something using a link on this page, Forbes and the author… [+9046 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cbssports.com"
+            },
+            "author": "",
+            "title": "NFL Week 12 grades: Raiders get an 'F' for disastrous loss, Cowboys get a big 'F' for loss to Patriots - CBS Sports",
+            "description": "Here are the Week 12 grades for every team that played on Sunday and Monday",
+            "url": "https://www.cbssports.com/nfl/news/nfl-week-12-grades-raiders-get-an-f-for-disastrous-loss-cowboys-get-a-big-f-for-loss-to-patriots/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2019/11/24/4da91ea6-9503-472c-b6f1-cd196196ba09/thumbnail/1200x675/9de1b7e1b6c6b3cd8520f76d083bd9e5/derek-carr-raiders.jpg",
+            "publishedAt": "2019-11-25T00:52:00Z",
+            "content": "The Oakland Raiders had a chance to claim part of first place in the AFC West with a win this week, but instead, the only thing the Raiders claimed was the title for \"ugliest performance of Week 12.\" \r\nThe Raiders haven't been great on the road this year (1-4… [+3912 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Npr.org"
+            },
+            "author": "Sam Gringlas",
+            "title": "Pro-Democracy Candidates Make Election Gains In Statement To Beijing - NPR",
+            "description": "The city reported that more than 2.9 million people voted, a turnout rate of more than 71%. More people voted in Sunday's local election than any election in Hong Kong to date.",
+            "url": "https://www.npr.org/2019/11/24/782452307/pro-democracy-candidates-make-election-gains-in-statement-to-beijing",
+            "urlToImage": "https://media.npr.org/assets/img/2019/11/24/ap_19328662977430_wide-f91a7c06be8a32e3261ff2b0ad9961735e50ebad.jpg?s=1400",
+            "publishedAt": "2019-11-25T00:37:00Z",
+            "content": "Pro-democracy supporters celebrate after pro-Beijing politician Junius Ho lost his election in Hong Kong, early Monday, Nov. 25, 2019.\r\nKin Cheung/AP\r\nAfter months of protests, pro-democracy candidates in Hong Kong appeared on course to make major gains in lo… [+4196 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cbssports.com"
+            },
+            "author": null,
+            "title": "49ers vs. Packers odds, line: Sunday Night Football picks, predictions from advanced model on 92-63 run - CBS Sports",
+            "description": "SportsLine's proven computer model simulated Sunday's Packers vs. 49ers game 10,000 times.",
+            "url": "https://www.cbssports.com/nfl/news/49ers-vs-packers-odds-line-sunday-night-football-picks-predictions-from-advanced-model-on-92-63-run/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2018/07/29/0420ca3d-63c6-4720-8e22-6fa551701dfd/thumbnail/1200x675/3ac44ffb277064f4c83bcbd976f987a8/jimmy-garoppolo.jpg",
+            "publishedAt": "2019-11-25T00:19:00Z",
+            "content": "The only Week 12 NFL matchup featuring a pair of teams with at least eight victories is Sunday Night Football between the NFC North-leading Green Bay Packers and NFC West-leading San Francisco 49ers. Kickoff is at 8:20 p.m. ET from Levi's Stadium in Santa Cla… [+3797 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "CNN",
+            "title": "READ: Navy Secretary Richard Spencer's letter to the President acknowledging his termination - CNN",
+            "description": "Defense Secretary Mark Esper \"fired\" Navy Secretary Richard Spencer for going outside of his chain of command by proposing a \"secret agreement with the White House\" in the case of Navy SEAL Eddie Gallagher, according to a senior defense official.",
+            "url": "https://www.cnn.com/2019/11/24/politics/read-navy-secretary-richard-spencer-resignation-letter/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/190715164937-richard-spencer-acting-defense-secretary-0715-super-tease.jpg",
+            "publishedAt": "2019-11-25T00:16:00Z",
+            "content": "(CNN)Defense Secretary Mark Esper \"fired\" Navy Secretary Richard Spencer for going outside of his chain of command by proposing a \"secret agreement with the White House\" in the case of Navy SEAL Eddie Gallagher, according to a senior defense official.\r\nEsper … [+259 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Caroline Linton",
+            "title": "Joycelyn Savage: Woman who lived with R. Kelly says he was abusive and she had two abortions - CBS News",
+            "description": "Joycelyn Savage pleaded for people not to judge her, saying \"imagine you being in my position\"",
+            "url": "https://www.cbsnews.com/news/joycelyn-savage-woman-who-lived-with-r-kelly-says-he-was-abusive-and-she-had-two-abortions-2019-11-24/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2019/11/24/db4fa6f3-6b0b-4b14-abf1-013254981954/thumbnail/1200x630/33056b98a3bf2c62efa9e5441f083289/ap-19055217124797.jpg",
+            "publishedAt": "2019-11-24T23:58:00Z",
+            "content": "A person claiming to be Joycelyn Savage, one of the women who was living with R. Kelly at the time of his arrest, said that he was physically abusive and said she had two abortions \"because of some monster kept me as a prisoner.\" Savage is speaking out on Pat… [+3540 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Marketwatch.com"
+            },
+            "author": "Associated Press",
+            "title": "Disney strikes gold again, as ‘Frozen 2’ opens to record $127 million - MarketWatch",
+            "description": "Six years after “Frozen” kicked up a pop-culture blizzard, the sequel to Elsa, Anna and Olaf’s adventures snowed-in the box office with an estimated $127...",
+            "url": "https://www.marketwatch.com/story/disney-strikes-gold-again-as-frozen-2-opens-to-record-127-million-2019-11-24",
+            "urlToImage": "http://s.marketwatch.com/public/resources/MWimages/MW-HV866_frozen_ZG_20191124184641.jpg",
+            "publishedAt": "2019-11-24T23:50:00Z",
+            "content": "NEW YORK Six years after Frozen kicked up a pop-culture blizzard, the sequel to Elsa, Anna and Olafs adventures snowed-in the box office with an estimated $127 million debut domestically and $350.2 million worldwide, according to studio estimates Sunday.\r\nThe… [+4752 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Youtube.com"
+            },
+            "author": null,
+            "title": "Luka Records 40-PT & 10-AST Double-Double, Leads Mavericks To Win! - NBA",
+            "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+            "url": "https://www.youtube.com/watch?v=upv5EYsPPCI",
+            "urlToImage": null,
+            "publishedAt": "2019-11-24T23:36:27Z",
+            "content": "[[getSimpleString(data.title)]]\r\n[[getSimpleString(data.description)]]\r\n[[getSimpleString(data.videoCountText)]]"
+        },
+        {
+            "source": {
+                "id": "the-new-york-times",
+                "name": "The New York Times"
+            },
+            "author": null,
+            "title": "5-Year-Old Boy Thrown From Mall of America Balcony Is Walking Again - The New York Times",
+            "description": "The boy was thrown from an upper floor in April by a stranger who was angry about being rejected by women, officials said.",
+            "url": "https://www.nytimes.com/2019/11/24/us/mall-of-america-boy-recovery.html",
+            "urlToImage": "https://static01.nyt.com/images/2019/11/24/multimedia/24xp-mallofamerica/24xp-mallofamerica-facebookJumbo.jpg",
+            "publishedAt": "2019-11-24T23:21:00Z",
+            "content": "Mr. Aranda already had a warrant for his arrest in Illinois for assault and a conviction for first-degree damage to property in Minnesota, according to prosecutors. \r\nLandens family has repeatedly asked to maintain their privacy, according to multiple updates… [+848 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Former President Evo Morales named a “terrorist” by Bolivia’s interim government - Vox.com",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiZWh0dHBzOi8vd3d3LnZveC5jb20vd29ybGQvMjAxOS8xMS8yNC8yMDk4MDU2Ni9ldm8tbW9yYWxlcy10ZXJyb3Jpc3QtcHJpc29uLWJvbGl2aWEtaW50ZXJpbS1nb3Zlcm5tZW500gFyaHR0cHM6Ly93d3cudm94LmNvbS9wbGF0Zm9ybS9hbXAvd29ybGQvMjAxOS8xMS8yNC8yMDk4MDU2Ni9ldm8tbW9yYWxlcy10ZXJyb3Jpc3QtcHJpc29uLWJvbGl2aWEtaW50ZXJpbS1nb3Zlcm5tZW50?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2019-11-24T23:14:10Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Lee Zeldin on impeachment: 'Adam Schiff really does think that many Americans are idiots' - Fox News",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiRmh0dHBzOi8vd3d3LmZveG5ld3MuY29tL21lZGlhL3RydW1wLWltcGVhY2htZW50LWFkYW0tc2NoaWZmLWxlZS16ZWxkaW7SAUpodHRwczovL3d3dy5mb3huZXdzLmNvbS9tZWRpYS90cnVtcC1pbXBlYWNobWVudC1hZGFtLXNjaGlmZi1sZWUtemVsZGluLmFtcA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2019-11-24T22:54:32Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Montgomeryadvertiser.com"
+            },
+            "author": "Kirsten Fiscus, Marty Roney",
+            "title": "The 'senseless' murder of Sheriff 'Big John' Williams has stunned Lowndes County, Alabama: 'I don't understand it' - USA TODAY",
+            "description": "John Williams' towering height gave him his nickname. A beloved lawman serving in his home county, he was regarded highly by the home folk.",
+            "url": "https://www.montgomeryadvertiser.com/story/news/crime/2019/11/24/lowndes-county-sheriff-john-williams-alabama-community-mourns/4290856002/?utm_source=google&utm_medium=amp&utm_campaign=speakable",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2019/11/24/PMOY/b86f612c-68da-4658-a7ac-70a0ddd1e6bb-Vaughner14.jpg?crop=1749,984,x0,y28&width=1600&height=800&fit=bounds",
+            "publishedAt": "2019-11-24T22:39:16Z",
+            "content": "Local pastor reacts to the death of Sheriff John Williams\r\n Montgomery Advertiser\r\nHAYNEVILLE, Ala. Lowndes County is mourning a giant.\r\nSheriff \"Big John\" Williams towered over this rural central Alabama county in more ways than one. He was shot and killed i… [+5899 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Npr.org"
+            },
+            "author": "",
+            "title": "Pope Francis, In Visit To Hiroshima, Says Possession Of Nuclear Weapons Is 'Immoral' - NPR",
+            "description": "The nuclear arms race wastes resources that could instead improve people's lives and protect the environment, the pontiff said. His tour marks the first papal visit to Japan in nearly 40 years.",
+            "url": "https://www.npr.org/2019/11/24/782450610/pope-francis-in-visit-to-hiroshima-says-possession-of-nuclear-weapons-is-immoral",
+            "urlToImage": "https://media.npr.org/assets/img/2019/11/24/gettyimages-1184311254_wide-7d09b16942b876cb2d45553b75a048307ce6d473.jpg?s=1400",
+            "publishedAt": "2019-11-24T21:55:00Z",
+            "content": "Pope Francis observes a minute of silence in memory of the victims of the atomic bombing of Hiroshima during his visit to the city's Peace Memorial Park on Sunday.\r\nCarl Court/Getty Images\r\nOn the first full day of his tour of Japan, Pope Francis visited Hiro… [+3020 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Youtube.com"
+            },
+            "author": null,
+            "title": "Ruth Bader Ginsburg 'home and doing well' after hospitalization - CNN",
+            "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+            "url": "https://www.youtube.com/watch?v=fRPabtiAnEM",
+            "urlToImage": null,
+            "publishedAt": "2019-11-24T21:14:44Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Nick Givas",
+            "title": "Kellyanne Conway: Trump's 'defense will go on offense' if Senate trial ensues - Fox News",
+            "description": "President Trump's impeachment defense team will go on offense and begin attacking the Democrats' narrative if the process moves to the Senate for a trial, White House adviser Kellyanne Conway said during a Sunday television interview.",
+            "url": "https://www.foxnews.com/media/trump-impeachment-senate-trial-kellyanne-conway",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2019/08/Conway-Trump_Fox-AP.jpg",
+            "publishedAt": "2019-11-24T21:14:30Z",
+            "content": "President Trump's impeachment defense team will go on offense and begin attacking the Democrats' narrative if the process moves to the Senate for a trial, White House adviser Kellyanne Conway said during a Sunday television interview.\r\n\"I think [Trump's] defe… [+2667 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Silke Koltrowitz",
+            "title": "Novartis to buy U.S. biotech The Medicines Co. for $9.7 billion - Reuters",
+            "description": "Novartis AG is buying U.S. biotechnology company The Medicines Co for about $9.7 billion, the Swiss drugmaker said on Sunday, as it seeks to expand its portfolio of medicines against cardiovascular disease.",
+            "url": "https://www.reuters.com/article/us-medicines-m-a-novartis-idUSKBN1XY0NL",
+            "urlToImage": "https://s3.reutersmedia.net/resources/r/?m=02&d=20191124&t=2&i=1456297103&w=1200&r=LYNXMPEFAN0Q6",
+            "publishedAt": "2019-11-24T21:00:00Z",
+            "content": "ZURICH (Reuters) - Novartis AG (NOVN.S) is buying U.S. biotechnology company The Medicines Co (MDCO.O) for about $9.7 billion, the Swiss drugmaker said on Sunday, as it seeks to expand its portfolio of medicines against cardiovascular disease. \r\nThe deal is e… [+1892 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cnet.com"
+            },
+            "author": "Rick Broida",
+            "title": "Best early Black Friday 2019 deals available today: $199 PS or Xbox, AirPods Pro discounts and more - CNET",
+            "description": "All game consoles are now available at some of the best prices ever, along with deep discounts on some great headphones. And that's just for staters.",
+            "url": "https://www.cnet.com/news/best-early-black-friday-2019-deals-available-today-199-ps-or-xbox-airpods-pro-discounts-and-more/",
+            "urlToImage": "https://cnet3.cbsistatic.com/img/qzU_9KnLreaNzCeaIYrImvKrVpw=/2019/11/21/bc3fa996-3327-4367-9075-2042fd066d5f/best-deals-available-now-promo.jpg",
+            "publishedAt": "2019-11-24T20:50:40Z",
+            "content": "This story is part of Holiday Gift Guide 2019, your source for the season's best gifts and deals, hand-picked by the experts at CNET.\r\n While many Black Friday sales start Thanksgiving Day or the day before, there are already some great deals in full swing at… [+8938 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Frank Miles",
+            "title": "Pink Taco founder Harry Morton found dead at 38 - Fox News",
+            "description": "Harry Morton, the founder of the Pink Taco restaurant chain, was found dead Saturday at the age of just 38, the company confirmed.",
+            "url": "https://www.foxnews.com/food-drink/pink-taco-harry-morton-dead-38-reports",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2019/11/Harry-Morton-GettyImages-143027975.jpg",
+            "publishedAt": "2019-11-24T20:37:42Z",
+            "content": "Harry Morton, the founder of the Pink Taco restaurant chain, was found dead Saturday at the age of just 38, the company confirmed.\r\nHe turned up dead in his home in Beverly Hills, Calif., PEOPLE reported. A cause was unclear; the Beverly Hills Police Departme… [+1650 chars]"
+        }
+    ]
+}

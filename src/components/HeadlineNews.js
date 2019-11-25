@@ -1,7 +1,6 @@
 import React from 'react'
 
 export default function HeadlineNews(props) {
-    const image = props.article.urlToImage != null ? <img src={props.article.urlToImage} alt={props.article.title} /> : "";
     return (
 
         <div className="card">

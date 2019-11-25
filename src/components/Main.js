@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import HeadlineNews from './HeadlineNews';
-import { Link } from 'react-router-dom';
 import Blog from './Blog';
+import blogs from '../mock-blog.json';
 export default function Main() {
     const [hasError, setErrors] = useState(false);
     const [news, setNews] = useState({
@@ -23,13 +23,14 @@ export default function Main() {
           return () => clearInterval(interval);
         
     }, []);
+    console.log("Conection interrupted: "+hasError)
     return (
 
         <div>
             <div className="row">
                 <div className="leftcolumn">
                     {
-                        news.articles.slice(0,3).map((i,k)=> <Blog blog={i} key={k}/>)
+                        blogs.articles.slice(0,10).map((i,k)=> <Blog blog={i} key={k}/>)
                     }
                 </div>
                 <div className="rightcolumn">
