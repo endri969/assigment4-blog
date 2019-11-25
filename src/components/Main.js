@@ -10,7 +10,7 @@ export default function Main() {
 
     useEffect(() => {
         const interval = setInterval(() => {
-            fetch("https://newsapi.org/v2/top-headlines?country=us&apiKey=3292a0d28e134b5a927b537fd6a598ea")
+            fetch("https://newsapi.org/v2/top-headlines?country=us&apiKey="+process.env.REACT_APP_NEWS_API_KEY)
             .then(response => response.json())
             .then(data => {
                 console.log(data);
